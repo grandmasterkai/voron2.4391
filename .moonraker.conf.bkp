@@ -6,6 +6,7 @@ klippy_uds_address = ~/printer_data/comms/klippy.sock
 
 [file_manager]
 enable_object_processing = True
+enable_config_write_access = True
 
 [authorization]
 cors_domains = 
